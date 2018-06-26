@@ -1,10 +1,9 @@
-package com.example.mafiaandroid;
+package com.example.bopit;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 public class main extends AppCompatActivity {
-int x;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

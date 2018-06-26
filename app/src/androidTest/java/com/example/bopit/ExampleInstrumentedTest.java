@@ -1,4 +1,4 @@
-package com.example.mafiaandroid;
+package com.example.bopit;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

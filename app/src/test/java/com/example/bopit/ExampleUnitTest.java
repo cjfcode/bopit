@@ -1,4 +1,4 @@
-package com.example.mafiaandroid;
+package com.example.bopit;
 
 import org.junit.Test;
 
